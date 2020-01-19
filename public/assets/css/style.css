@@ -1,0 +1,21 @@
+body {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 700;
+  background-color: #222;
+}
+
+.container {
+  background: url("/assets/images/checkerboard-cross/checkerboard-cross.png");
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.burgerRow {
+  line-height: 2em;
+  margin-bottom: 20px;
+}
+
+.eat-clean {
+  background-color: #FACF3E;
+}
+/*# sourceMappingURL=style.css.map */
